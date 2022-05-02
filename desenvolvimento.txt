@@ -1,0 +1,8 @@
+- Crie um objeto construtor que tem as seguintes propriedades
+nome
+idade
+cpf
+- Utilizar a palavra this nesse objeto construtor
+
+salvar em um Array pelo menos 3 objetos
+Varrer o Array que os objetos estão armazenados.
